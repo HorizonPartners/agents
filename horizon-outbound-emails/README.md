@@ -1,6 +1,6 @@
 # Horizon Outbound Emails
 
-Modular email assembly system for Horizon Partners Lead-PF outbound campaigns targeting founder-led software companies.
+Modular email assembly system for Horizon Partners outbound campaigns targeting founder-led software companies.
 
 ## How It Works
 
