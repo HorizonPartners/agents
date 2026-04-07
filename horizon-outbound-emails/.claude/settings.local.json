@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \":*)",
+      "Bash(python3 -c \"print\\(''hello''\\)\")",
+      "Bash(powershell -Command \":*)",
+      "Bash(for dir:*)",
+      "Bash(do echo:*)",
+      "Bash(git clone:*)"
+    ]
+  }
+}

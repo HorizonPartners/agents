@@ -1,8 +1,9 @@
 {
   "name": "horizon-outbound-emails",
   "version": "0.1.0",
-  "description": "Modular email assembly system for Horizon Partners outbound campaigns targeting founder-led software companies.",
+  "description": "Modular email assembly system for Horizon Partners Lead-PF outbound campaigns. Combines static intros, dynamic personalized intros (with/without deal experience), themed body variants, and static closings into complete outbound emails targeting founder-led software companies.",
   "author": {
-    "name": "Horizon Partners"
-  }
+    "name": "Patrick Fowler"
+  },
+  "keywords": ["outbound", "email", "M&A", "sales", "horizon-partners"]
 }

@@ -13,7 +13,7 @@ description: >
 
 Provides 3 static email body templates for Horizon Partners outbound emails. These templates lead with the problem that product-first founders face in traditional M&A processes, then position Horizon as the solution.
 
-These are verbatim templates. Copy the selected variant directly into the email body without modification. Do not change any words, phrases, or punctuation.
+These are verbatim templates. Copy the selected variant directly into the email body without modification. Do not change any words, phrases, punctuation, or spacing.
 
 ## When to Use
 
