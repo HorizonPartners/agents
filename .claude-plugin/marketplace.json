@@ -1,10 +1,18 @@
 {
   "name": "horizon-agents",
   "description": "Horizon Partners agent plugins",
+  "owner": {
+    "name": "Horizon Partners",
+    "url": "https://github.com/HorizonPartners"
+  },
   "plugins": [
     {
       "name": "horizon-outbound-emails",
-      "path": "./horizon-outbound-emails"
+      "source": {
+        "type": "git-subdir",
+        "url": "https://github.com/HorizonPartners/agents.git",
+        "path": "horizon-outbound-emails"
+      }
     }
   ]
 }
