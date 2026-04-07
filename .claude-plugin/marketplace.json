@@ -1,0 +1,10 @@
+{
+  "name": "horizon-agents",
+  "description": "Horizon Partners agent plugins",
+  "plugins": [
+    {
+      "name": "horizon-outbound-emails",
+      "path": "./horizon-outbound-emails"
+    }
+  ]
+}
