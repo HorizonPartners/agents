@@ -1,18 +1,19 @@
 {
   "name": "horizon-agents",
-  "description": "Horizon Partners agent plugins",
   "owner": {
     "name": "Horizon Partners",
     "url": "https://github.com/HorizonPartners"
   },
+  "metadata": {
+    "description": "Horizon Partners agent plugins"
+  },
   "plugins": [
     {
       "name": "horizon-outbound-emails",
-      "source": {
-        "type": "git-subdir",
-        "url": "https://github.com/HorizonPartners/agents.git",
-        "path": "horizon-outbound-emails"
-      }
+      "source": "./horizon-outbound-emails",
+      "description": "Modular email assembly system for Horizon Partners Lead-PF outbound campaigns.",
+      "version": "0.1.0",
+      "keywords": ["outbound", "email", "M&A", "sales", "horizon-partners"]
     }
   ]
 }
